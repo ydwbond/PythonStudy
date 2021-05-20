@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f39c311a-6452-47cf-9898-79c21becec01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LamdbaFunction.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LamdbaFunction.py" beforeDir="false" afterPath="$PROJECT_DIR$/LamdbaFunction.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +37,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LamdbaFunction.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -64,8 +67,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2293" />
-    <option name="y" value="-212" />
+    <option name="x" value="3560" />
+    <option name="y" value="14" />
     <option name="width" value="1864" />
     <option name="height" value="1238" />
   </component>
@@ -103,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InnerFuctions">
+  <component name="RunManager" selected="Python.LamdbaFunction">
     <configuration name="InnerFuctions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonStudy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,6 +120,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/InnerFuctions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LamdbaFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonStudy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LamdbaFunction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,6 +172,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LamdbaFunction" />
         <item itemvalue="Python.InnerFuctions" />
         <item itemvalue="Python.Loops" />
       </list>
@@ -240,7 +265,11 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/LamdbaFunction.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="32" lean-forward="true" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
